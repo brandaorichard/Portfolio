@@ -1,0 +1,15 @@
+body {
+    background-color: #D3D3D3;
+    font: normal 16px Arial, Verdana, serif;
+    text-align: center;
+    align-items: center;
+}
+
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #42426F;
+}
+
