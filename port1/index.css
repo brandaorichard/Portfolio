@@ -2,7 +2,6 @@ body {
     background-color: #D3D3D3;
     font: normal 16px Arial, Verdana, serif;
     text-align: center;
-    align-items: center;
 }
 
 
@@ -13,3 +12,32 @@ header img {
     border: 5px solid #42426F;
 }
 
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    display: list-item;
+    list-style-type: none;
+    text-align: center;
+}
