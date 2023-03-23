@@ -1,7 +1,7 @@
 body {
     background-color: #D3D3D3;
     font: normal 16px Arial, Verdana, serif;
-    text-align: center;
+    text-align: center
 }
 
 
@@ -31,13 +31,10 @@ footer p {
     margin-top: 2px;
 }
 
-ul {
+section li {
     list-style-type: none;
-    text-align: center;
 }
 
-ol {
-    display: list-item;
+header p {
     list-style-type: none;
-    text-align: center;
 }
