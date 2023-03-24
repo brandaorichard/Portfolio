@@ -31,10 +31,6 @@ footer p {
     margin-top: 2px;
 }
 
-section li {
-    list-style-type: none;
-}
-
-header p {
+li {
     list-style-type: none;
 }
